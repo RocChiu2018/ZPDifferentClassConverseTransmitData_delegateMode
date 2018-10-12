@@ -1,0 +1,2 @@
+# ZPDifferentClassConverseTransmitData_delegateMode
+介绍不同类之间如何利用代理设计模式来逆传数据的。
